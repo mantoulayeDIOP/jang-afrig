@@ -1,0 +1,23 @@
+                Rapport LAB 0
+Dans ce travail de lab 0 j'ai été capable de comprendre le fonctionnement des 4 géants de la vie du développeur web à savoir :
+    →Un éditeur de code (comme VS code pour écrire le code)
+    →Navigateur (pour tester le code écrit)
+    →Un outils de versioning (comme Git qui garde l'historique de nos codes nous permettant ainsi de revenir en arrière)
+    →Et un hébergeur (comme Github qui héberge notre code pour le mettre en ligne)
+🅰J'avais déjà vs code sur mon ordinateur donc je suis directement passé à l'étape 3.2 c'est à dire installer l'extension live server de vs code
+🅱Après ça j'ai installé et configurer git avec mes informations personnelles
+🅲Pour l'étape suivante je me suis rendu compte que j'avais déjà créé un compte Ghitub sur l'adresse mail que j'ai renseigné précédemment avec le nom d'utilisateur de mantoulayeDIOP (que je pensais avoir créé sur mon mail personnel) ; que je vais utiliser pour la suite de mon travail
+🅳Après j'ai créé mon dépôt jang-afrig et un fichier jang-afrig sur le terminal que j'ai ouvert sur Visual studio code (où je vais éditer mon code d'html)
+🅴 DE Visual studio code à Ghitub en ligne
+J’utilise le terminal intégré dans Visual studio code pour voir l'état de notre fichier (avec la commande git status), le préparer (git add <fichier>), l’enregistrer et l'envoyer sur Github à l'aide de certains commandes.
+  →Pour l'enregistrement on n'a utilisé la commande git commit -m "v0 : premier setup avec hello Word"
+Ce message sert à décrire ce qu’on a fait dans cette sauvegarde (commit).
+D’après mes recherches j’ai pu savoir que Git fonctionne comme un historique :
+①chaque commit = une version de mon projet
+②et le message qui est entre les guillemet peux expliquer ce qui a changé au cas je voudrais:
+•  revoir l’historique 
+•  comprendre rapidement les changements 
+•  revenir à une ancienne version si besoin
+ →Pour l'envoyer sur Ghitub on a utilisé notre Personal Access Token
+🅵Le lien vers mon repos GitHub est https://github.com/mantoulayeDIOP/jang-afrig.git
+
